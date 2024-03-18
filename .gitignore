@@ -1,6 +1,7 @@
 # Img file
 *.png
 *.jpg
+*.jpeg
 
 # Compiled class file
 *.class
